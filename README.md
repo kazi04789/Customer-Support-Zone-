@@ -1,16 +1,16 @@
-# React + Vite
+## 1. 
+-JSX is a syntax that looks like HTML but in JavaScript.It makes writing UI easier and more readable.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 2.
+ -**State**:Data managed inside a component (can changed)
+ -**Props**:Data passed from parent to child (red-only)
 
-Currently, two official plugins are available:
+ ## 3.
+ useState is a React hook to store and update data in a component.It gives two thins:a value and function to change it.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ## 4.
+ -Lift state up to a parent component and pass via props.
+ -Or use Context API for global sharing.
 
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ## 5.
+ -Events are written in CamelCase (e.g.,onClick). Functions are passed as event handlers.
