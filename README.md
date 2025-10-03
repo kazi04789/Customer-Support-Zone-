@@ -7,7 +7,7 @@
  - **Props**:Data passed from parent to child (red-only)
 
  ## 3.
- useState is a React hook to store and update data in a component.It gives two thins:a value and function to change it.
+ - useState is a React hook to store and update data in a component.It gives two thins:a value and function to change it.
 
  ## 4.
  - Lift state up to a parent component and pass via props.
