@@ -2,9 +2,9 @@
 const Navbar = () => {
   return (
 
-    <nav className="flex justify-between items-center p-4 bg-white shadow ">
+    <nav className="flex justify-between items-center p-4 bg-white shadow  ">
     <h1 className="text-xl font-bold text-[#1E1E1E]">CS - Ticket System</h1>
-    <div className="flex gap-6 items-center">
+    <div className="flex gap-6 items-center text-gray-600 ">
       <a href="#">Home</a>
       <a href="#">FAQ</a>
       <a href="#">Changelog</a>
