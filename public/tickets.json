@@ -1,0 +1,92 @@
+[
+  {
+"id": "1001",
+"title": "Login Issue - Unable to Access Account",
+"description": "Customer reports being unable to log in despite correct credentials.",
+"customer": "Michael Brown",
+"priority": "medium",
+"status": "Open",
+"createdAt": "2025-01-12"
+},
+{
+"id": "1002",
+"title": "Payment Failed - Card Declined",
+"description": "Payment declined on checkout for Visa ending 1234.",
+"customer": "Sarah Johnson",
+"priority": "high",
+"status": "Open",
+"createdAt": "2025-01-15"
+},
+{
+"id": "1003",
+"title": "Checkout Button Not Working",
+"description": "Checkout button does nothing on click for some users.",
+"customer": "David Smith",
+"priority": "high",
+"status": "In-Progress",
+"createdAt": "2025-01-18"
+},
+{
+"id": "1004",
+"title": "Feature Request - Dark Mode",
+"description": "User requested dark mode option for better night use.",
+"customer": "Emily Davis",
+"priority": "low",
+"status": "Open",
+"createdAt": "2025-01-20"
+},
+{
+"id": "1005",
+"title": "Slow Performance - Loading",
+"description": "Dashboard load time > 30 seconds for some users.",
+"customer": "Sophia Martinez",
+"priority": "medium",
+"status": "Open",
+"createdAt": "2025-01-22"
+},
+{
+"id": "1006",
+"title": "Account Locked - Too Many Attempts",
+"description": "Multiple failed login attempts locked the account.",
+"customer": "Chris Evans",
+"priority": "medium",
+"status": "In-Progress",
+"createdAt": "2025-01-25"
+},
+{
+"id": "1007",
+"title": "Shipping Delay - Order Not Received",
+"description": "Order not delivered past estimated date.",
+"customer": "Olivia Taylor",
+"priority": "high",
+"status": "Open",
+"createdAt": "2025-01-28"
+},
+{
+"id": "1008",
+"title": "UI Issue - Text Overlapping",
+"description": "Texts on small screens overlap in product cards.",
+"customer": "Daniel Anderson",
+"priority": "low",
+"status": "Open",
+"createdAt": "2025-01-30"
+},
+{
+"id": "1009",
+"title": "Refund Request - Duplicate Charge",
+"description": "User charged twice for single purchase.",
+"customer": "Grace Lee",
+"priority": "high",
+"status": "In-Progress",
+"createdAt": "2025-02-01"
+},
+{
+"id": "1010",
+"title": "Password Reset Not Working",
+"description": "Password reset email not being sent to user.",
+"customer": "Aaron Clark",
+"priority": "low",
+"status": "Open",
+"createdAt": "2025-02-03"
+}
+]
