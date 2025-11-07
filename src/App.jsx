@@ -13,7 +13,7 @@ function App() {
 
   // Load tickets.json
   useEffect(() => {
-    fetch("public/tickets.json")
+    fetch("/Customer-Support-Zone-/tickets.json")
       .then((res) => res.json())
       .then((data) => setTickets(data))
       .catch((error) => console.error("JSON Load Error:", error));
